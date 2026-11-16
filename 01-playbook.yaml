@@ -1,0 +1,8 @@
+-name : ping Demo
+hosts:local
+connection:local
+taskL
+
+  -name: ping
+    ping:
+    
