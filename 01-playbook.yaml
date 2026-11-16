@@ -1,8 +1,6 @@
--name : ping Demo
+-name : ping demo
 hosts:local
 connection:local
-taskL
-
+task:
   -name: ping
     ping:
-    
